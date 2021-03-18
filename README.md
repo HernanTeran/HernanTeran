@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HernanTeran
-- 👀 I’m interested in C++, C, Java, and Python
+- 👀 I’m interested in C++, C, Java, and Python.
 - 🌱 I’m currently learning more about all my favorite programming languages.
-- 💞️ I’m looking to collaborate on C++ projects
+- 💞️ I’m looking to collaborate on C++ projects.
 - 📫 How to reach me: teranhernan13@gmail.com
 
 <!---
